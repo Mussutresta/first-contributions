@@ -685,6 +685,7 @@
 - [Lise Ho](https://github.com/koprty)
 - [John Doyke](https://github.com/johnjohn12)
 - [Geoffrey Wong](https://github.com/GeoffreyHW)
+- [Shifa Samreen](https://github.com/Mussutresta)
 - [Aman Agarwal](https://github.com/amanagarwal-sopho)
 - [Ahmad Abdul-Aziz](https://github.com/a-m-a-z)
 - [Jordan Craig](https://github.com/jordancraig)
